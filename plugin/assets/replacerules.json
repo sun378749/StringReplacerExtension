@@ -1,0 +1,5 @@
+[
+  { "origin": "替换文字", "replace": "image1.jpg" },
+  { "origin": "\\(111123\\)", "replace": "image1.jpg" },
+  { "origin": "abc", "replace": "image1.jpg" }
+]
